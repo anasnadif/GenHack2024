@@ -35,4 +35,4 @@ Click the link above to watch our application demo video. Experience how our sys
 
 * NADIF Anas ([GitHub profile](https://github.com/anasnadif), [LinkedIn profile](https://www.linkedin.com/in/anas-nadif-52064b22b/))
 
-* EL AMRAOUI Yahya ([GitHub profile]((https://github.com/Steviewondeer)), [LinkedIn profile](https://www.linkedin.com/in/yahya-el-amraoui-585655279/))
+* EL AMRAOUI Yahya ([GitHub profile](https://github.com/Steviewondeer), [LinkedIn profile](https://www.linkedin.com/in/yahya-el-amraoui-585655279/))
