@@ -4,9 +4,7 @@
 
 Welcome to the GitHub repository for our AI-Powered Personal Knowledge Management System. This innovative tool empowers users to manage and interconnect their personal notes - including text, images, audio files, bookmarks, and YouTube videos - in one integrated system. Beyond mere note-taking, our system is designed to generate meaningful insights and personalized recommendations, aiding users in expanding their knowledge based on their unique interests.
 
-### 🎥 Demo Video
-
-[Video Name](https://youtu.be/A0mS4qxtamA)
+### 🎥 [Demo Video](https://youtu.be/A0mS4qxtamA)
 
 Click the image above to watch our application demo video. Experience how our system transforms personal knowledge management through its cutting-edge features.
 
