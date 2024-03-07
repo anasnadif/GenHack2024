@@ -6,7 +6,7 @@ Welcome to the GitHub repository for our AI-Powered Personal Knowledge Managemen
 
 ### 🎥 Demo Video
 
-[![Demo Video](video_thumbnail_url)](video_url)
+[![Video Name]()](Demo_Second_Brain.mp4)
 
 Click the image above to watch our application demo video. Experience how our system transforms personal knowledge management through its cutting-edge features.
 
