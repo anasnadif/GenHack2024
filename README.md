@@ -22,7 +22,7 @@ Click the link above to watch our application demo video. Experience how our sys
 
 ## Technology Stack
 
-- **AI and Machine Learning:** GPT-4, Zephyr-7b-beta
+- **LLMs:** GPT-4, Zephyr-7b-beta
 - **Application Frameworks:** Streamlit, FastAPI
 
 ## Data Privacy
