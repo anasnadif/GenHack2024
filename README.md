@@ -20,10 +20,6 @@ Click the image above to watch our application demo video. Experience how our sy
 8. **Streamlit & FastAPI Application:** Access our system through a user-friendly app designed for efficiency and ease of use.
 9. **Data Privacy Assurance:** Opt for our local app solution to guarantee your data privacy, powered by the lightweight yet robust Zephyr-7b-beta.
 
-## Getting Started
-
-[Here, include step-by-step instructions for setup, installation, and initial use. Detail any prerequisites, installation commands, and execution procedures.]
-
 ## Technology Stack
 
 - **AI and Machine Learning:** GPT-4, Zephyr-7b-beta
