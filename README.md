@@ -1,4 +1,4 @@
-# Your Project Name: AI-Powered Personal Knowledge Management System
+# Second Brain: AI-Powered Personal Knowledge Management System
 
 ## Introduction
 
