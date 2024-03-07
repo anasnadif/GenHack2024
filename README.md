@@ -37,6 +37,6 @@ Click the image above to watch our application demo video. Experience how our sy
 
 ## Contributors
 
-* NADIF Anas ([GitHub profile]([https://github.com/johndoe](https://github.com/anasnadif)https://github.com/anasnadif), [LinkedIn profile]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/anas-nadif-52064b22b/)https://www.linkedin.com/in/anas-nadif-52064b22b/))
+* NADIF Anas ([GitHub profile](https://github.com/anasnadif), [LinkedIn profile](https://www.linkedin.com/in/anas-nadif-52064b22b/))
 
 * 
