@@ -28,21 +28,15 @@ Click the image above to watch our application demo video. Experience how our sy
 
 - **AI and Machine Learning:** GPT-4, Zephyr-7b-beta
 - **Application Frameworks:** Streamlit, FastAPI
-- **Data Analysis and Processing:** Utilizing Python libraries such as NumPy, Pandas, and Scikit-learn
-- **Others:** [Detail any additional technologies used]
-
-## How It Works
-
-[Provide an overview of the system workflow, from content extraction through to the insight generation and chat functionality. Consider using bullet points or a simple diagram for clarity.]
 
 ## Data Privacy
 
-Your privacy is our top priority. [Explain your data privacy measures and the advantages of the local app option with Zephyr-7b-beta.]
+- Your privacy is our top priority. Data privacy will be ensured with openai’s policy through their encryption and compliance measures.
 
-## Contributing
+- For full data privacy running the app localy, Zephyr-7b-beta can be used for similar performance but requires more than 16GBs in GPU.
 
-Your contributions can help us grow and improve! Check out our CONTRIBUTING guide for details on submitting pull requests.
+## Contributors
 
-## License
+* NADIF Anas ([GitHub profile]([https://github.com/johndoe](https://github.com/anasnadif)https://github.com/anasnadif), [LinkedIn profile]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/anas-nadif-52064b22b/)https://www.linkedin.com/in/anas-nadif-52064b22b/))
 
-[Specify the license under which your project is released.]
+* 
