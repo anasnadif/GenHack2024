@@ -34,7 +34,7 @@ Click the link above to watch our application demo video. Experience how our sys
 
 - Your privacy is our top priority. Data privacy will be ensured with openai’s policy through their encryption and compliance measures.
 
-- For full data privacy running the app localy, Zephyr-7b-beta can be used for similar performance but requires more than 16GBs in GPU.
+- For full data privac, the user can run the app localy using Zephyr-7b-beta for similar performance but would require at least 16GBs in GPU.
 
 ## Contributors
 
