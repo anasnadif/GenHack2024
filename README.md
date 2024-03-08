@@ -22,8 +22,8 @@ Click the link above to watch our application demo video. Experience how our sys
 
 ## How it works
 
-![KG - RAG](KG-RAG.png "KG - RAG")
 ![KG - Construction](KG-Construction.png "KG - Construction")
+![KG - RAG](KG-RAG.png "KG - RAG")
 
 ## Technology Stack
 
